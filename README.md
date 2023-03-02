@@ -1,5 +1,5 @@
-<h1 align="center">Heya 🦊 - name's RenardBOT!</h1>
-<h3 align="center">A French aspiring C/C++ dev!</h3>
+<h1 align="center">Hello 🦊 - name's Evan!</h1>
+<h3 align="center">A French aspiring data engineer dev!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renardbot&label=Profile%20views&color=0e75b6&style=flat" alt="renardbot" /> </p>
 
