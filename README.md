@@ -1,5 +1,9 @@
 <h1 align="center">Hello 🦊 - name's Evan</h1>
-<h3 align="center">A fox-loving, French aspiring researcher!</h3>
+<h3 align="center">a fox-loving, french aspiring researcher</h3>
+
+<p align="center">
+  <img src="banner.gif" alt="GIF d'un renard blanc courant sur un fond noir">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renardbot&label=Profile%20views&color=0e75b6&style=flat" alt="renardbot" /> </p>
 
