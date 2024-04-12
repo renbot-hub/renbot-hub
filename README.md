@@ -13,5 +13,5 @@
 </p>
 
 my current topics of research :
-- social bot detections on twitter
+- social bots detection on twitter
 - tensor approach to data science and tensor decompositions
