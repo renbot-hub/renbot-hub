@@ -16,6 +16,8 @@ my current topics of research :
 - social bots detection on twitter
 - tensor approach to data science and tensor decompositions
 
+<br>
+
 my personnal interests :
 - predicting multiplayer video-game matches outcomes
 - study of animal populations
