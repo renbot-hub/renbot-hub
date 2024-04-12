@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/badge/c++-F05941?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </p>
 
-my current topics and interests of research :
+my current topics of research :
 - social bots detection on twitter
 - tensor approach to data science and tensor decompositions
+
+my personnal interests :
+- predicting multiplayer video-game matches outcomes
+- study of animal populations
