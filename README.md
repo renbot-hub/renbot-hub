@@ -18,6 +18,9 @@ my current topics of research :
 - social bots detection on twitter
 - tensor approach to classification using tensor decompositions
 
+currently benchmarking various bot detection algorithms using machine learning techniques. 
+hey, it kinda works ❗
+
 <hl>
 
 my personnal interests :
