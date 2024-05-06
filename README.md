@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/c-F37B68?style=for-the-badge&logo=c&logoColor=white">
 </p>
 
+
+
 my current topics of research :
 - social bots detection on twitter
 - tensor approach to classification using tensor decompositions
@@ -25,3 +27,10 @@ hey, it kinda works ❗
 
 my personnal interests :
 - idk i just like animals i guess
+
+<br>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenardBOT&langs_count=7&theme=dracula">
+</p>
