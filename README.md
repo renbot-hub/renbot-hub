@@ -21,7 +21,7 @@ my current topics of research :
 currently benchmarking various bot detection algorithms using machine learning techniques. 
 hey, it kinda works ❗
 
-<hl>
+<hr>
 
 my personnal interests :
 - idk i just like animals i guess
