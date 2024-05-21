@@ -16,7 +16,7 @@
 
 
 
-my current topics of research :
+my current interests in research :
 - social bots detection on twitter
 - tensor approach to classification using tensor decompositions
 
