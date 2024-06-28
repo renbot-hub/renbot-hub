@@ -18,10 +18,10 @@
 
 my current interests in research :
 - social bots detection on twitter
-- tensor approach to classification using tensor decompositions
+- tensor approach to bot detection using tensor decompositions
 
 currently benchmarking various bot detection algorithms using machine learning techniques. 
-hey, it kinda works ❗
+hey, it works ❗
 
 <hr>
 
