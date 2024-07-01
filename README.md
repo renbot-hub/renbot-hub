@@ -1,5 +1,5 @@
 <h1 align="center">hey 🦊 - name's Evan</h1>
-<h3 align="center">a fox-loving, french aspiring PhD</h3>
+<h3 align="center">a fox-loving, french aspiring PhD student</h3>
 
 <p align="center">
   <img src="banner.gif" alt="GIF d'un renard blanc courant sur un fond noir">
@@ -19,9 +19,6 @@
 my current interests in research :
 - social bots detection on twitter
 - tensor approach to bot detection using tensor decompositions
-
-currently benchmarking various bot detection algorithms using machine learning techniques. 
-hey, it works ❗
 
 <hr>
 
