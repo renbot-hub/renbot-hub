@@ -1,5 +1,5 @@
 <h1 align="center">hey 🦊 - name's Evan</h1>
-<h3 align="center">a fox-loving, french aspiring PhD student</h3>
+<h3 align="center">a fox-loving PhD student</h3>
 
 <p align="center">
   <img src="banner.gif" alt="GIF d'un renard blanc courant sur un fond noir">
