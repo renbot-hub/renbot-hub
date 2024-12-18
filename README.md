@@ -30,3 +30,5 @@ my personnal interests :
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenardBOT&langs_count=7&theme=dracula">
 </p>
+
+Sorry for using python 💔 i will strive to become a better person
