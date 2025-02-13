@@ -22,7 +22,9 @@ my current interests in research :
 <hr>
 
 my personnal interests :
-- idk i just like animals i guess
+- animals of all kind
+- magic the gathering
+- animated movies
 
 <br>
 <br>
@@ -31,4 +33,4 @@ my personnal interests :
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenardBOT&langs_count=7&theme=dracula">
 </p>
 
-Sorry for using python 💔 i will strive to become a better person
+my apologies for using python 💔 i will strive to become a better person
