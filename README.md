@@ -17,8 +17,9 @@
 
 
 
-my current interests in research :
+my current interests in comp-sci :
 - social bots detection on twitter
+- managing big data with spark
 
 <hr>
 
@@ -26,12 +27,3 @@ my personnal interests :
 - animals of all kind
 - magic the gathering
 - animated movies
-
-<br>
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenardBOT&langs_count=7&theme=dracula">
-</p>
-
-my apologies for using python 💔 i will strive to become a better person
